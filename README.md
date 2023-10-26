@@ -7,7 +7,7 @@
 </h2>
 
 <h2 align=center> 
-🎓 Computer science studente at Univeristy of Bologna</a>
+🎓 Computer science student at University of Bologna</a>
 </h2>
 
 <h2 align=center> 
