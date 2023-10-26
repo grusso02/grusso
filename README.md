@@ -3,7 +3,7 @@
 </h1>
 
 <h2 align=center> 
-💻 C++ Developer at <a href="[https://42roma.it/en/](https://www.iemmeconsulting.it/)">I&M Consulting</a>
+💻 C++ Developer at <a href="https://www.iemmeconsulting.it/">I&M Consulting</a>
 </h2>
 
 <h2 align=center> 
