@@ -7,9 +7,9 @@
 </h2>
 
 <h2 align=center> 
-🎓 Computer science student at University of Bologna</a>
+🎓 Computer science student at <a href="https://corsi.unibo.it/laurea/informatica">University of Bologna</a>
 </h2>
 
 <h2 align=center> 
-💻 Ex Student at <a href="https://42roma.it/en/">42 Roma Luiss</a>
+💻 Ex Student <a href="https://42roma.it/en/">42 Roma Luiss</a>
 </h2>
